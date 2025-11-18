@@ -35,6 +35,21 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+  # Gráficos y visualización
+  fl_chart: ^0.66.0
+
+  # Base de datos local
+  sqflite: ^2.3.0
+
+  # Rutas de almacenamiento
+  path_provider: ^2.1.1
+
+  # Gestión de estado
+  provider: ^6.1.1
+
+  # Formateo de números y fechas
+  intl: ^0.18.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
