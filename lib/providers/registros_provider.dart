@@ -116,7 +116,7 @@ class RegistrosProvider extends ChangeNotifier {
     if (rendimientoInicial == 0) return 0.0;
 
     double mejoraSemanaldouble = (regresion.pendiente * 7 / rendimientoInicial) * 100;
-    return mejoraSemanal;
+    return mejoraSemanaldouble;
   }
 
   /// Obtiene registros en un rango de fechas

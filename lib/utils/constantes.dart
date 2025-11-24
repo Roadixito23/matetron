@@ -223,7 +223,7 @@ class TemaMatetron {
           color: Constantes.colorPrimario,
         ),
       ),
-      cardTheme: CardTheme(
+      cardTheme: CardThemeData(
         color: Color(0xFF1E1E1E),
         elevation: 4,
         shape: RoundedRectangleBorder(
@@ -302,7 +302,7 @@ class TemaMatetron {
           color: Constantes.colorSecundario,
         ),
       ),
-      cardTheme: CardTheme(
+      cardTheme: CardThemeData(
         color: Colors.white,
         elevation: 2,
         shape: RoundedRectangleBorder(
